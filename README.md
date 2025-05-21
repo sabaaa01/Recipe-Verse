@@ -17,7 +17,12 @@ Welcome to **RecipeVerse** — your ultimate social recipe sharing platform wher
 
 ## Demo Video
 
-Watch our quick demo to see RecipeVerse in action:  
+Watch the quick demo to see RecipeVerse in action:  
+
+
+
+https://github.com/user-attachments/assets/4f976fac-a73f-4b35-86c8-9e98024709d9
+
 
 
 
