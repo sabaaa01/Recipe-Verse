@@ -1,4 +1,5 @@
 {
+  "homwpage":"https://sabaaa0.github.io/Recipe-Verse",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -19,10 +20,14 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    
     "start": "react-scripts start",
+    "predeploy":"npm run build",
+    
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
